@@ -20,6 +20,7 @@ A lightweight and easy-to-use logger utility to add colors to your console logs 
 
 ```bash
 npm install colored-logger
+```
 
 # 🚀 Usage
 
